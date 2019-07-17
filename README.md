@@ -4,10 +4,10 @@ Just a collection of dotfiles for my setup
 ![Screenshot Light](Screenshots/Screenshot_Light.png)
 ## Extensions/Tools Used
 <b> Wallpaper: </b> https://imgur.com/a/FzeY95F Comes from the Abstruct app
-<br/> <b> GTK: </b> Plata Noir Compact
+<br/> <b> GTK: </b> Plata Noir Compact/Plata Lumine Compact
 <br/> <b> Icons: </b> McMojave Circle, some icons are modified by me personally.
 <br/> <b> Dock: </b> Dash to dock
-<br/> <b> Shell: </b> Plata Noir
+<br/> <b> Shell: </b> Plata Noir/Plata Lumine
 <br/> <b> Visualizer: </b> Glava
 <br/> <b> Alt-tab: </b> Coverflow alt-tab
 <br/> <b> Transparent top-bar: </b> Dynamic Panel Transparency
