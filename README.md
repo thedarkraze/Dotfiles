@@ -1,5 +1,7 @@
 # Dotfiles
 Just a collection of dotfiles for my setup
+![Screenshot Dark](Screenshots/Screenshot_Dark.png)
+![Screenshot Light](Screenshots/Screenshot_Light.png)
 ## Extensions/Tools Used
 <b> Wallpaper: </b> https://imgur.com/a/FzeY95F Comes from the Abstruct app
 <br/> <b> GTK: </b> Plata Noir Compact
